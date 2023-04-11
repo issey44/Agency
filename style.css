@@ -368,19 +368,19 @@
 }
 
 .service__heading_manage::before {
-    content: url('/images/Combined\ shape\ 15719.svg');
+    content: url('images/Combined\ shape\ 15719.svg');
 }
 
 .service__heading_ux::before {
-    content: url('/images/Combined\ shape\ 15722.svg');
+    content: url('images/Combined\ shape\ 15722.svg');
 }
 
 .service__heading_brand::before {
-    content: url('/images/Combined\ shape\ 15729.svg');
+    content: url('images/Combined\ shape\ 15729.svg');
 }
 
 .service__heading_anim::before {
-    content: url('/images/Combined\ shape\ 15734.svg');
+    content: url('images/Combined\ shape\ 15734.svg');
 }
 
 .feature {
